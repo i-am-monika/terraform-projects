@@ -11,3 +11,5 @@
 
 # Crash logs
 crash.log
+*.tfstate
+*.tfstate.backup
